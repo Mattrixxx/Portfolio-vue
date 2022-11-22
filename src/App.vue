@@ -21,7 +21,7 @@ export default {
   --soft-yellow: #fcd04f;
   --white: #fff;
   --black: #333;
-  --dark-black: #111;
+  --dark-black: #2a2a2a;
 }
 * {
   margin: 0;
